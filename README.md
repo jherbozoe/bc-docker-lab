@@ -83,8 +83,8 @@ bc-docker-lab
 │       └── lab-overview.png
 │
 ├── scripts
-│   ├── 01_Preparación_consola_comandos.ps1
-│   ├── 02_Creación_del_contenedor.ps1
+│   ├── 01-Prepare-PowerShell.ps1
+│   ├── 02-Create-Container.ps1
 │  
 │
 ├── vscode
