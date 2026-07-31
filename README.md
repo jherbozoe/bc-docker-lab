@@ -25,7 +25,7 @@ The objective is simple:
 
 📄 **Business Central Docker Lab Guide**
 
-➡️ docs/Business-Central-Docker-Lab-Guide-v1.0.pdf
+[📥 Download the guide](docs/Business-Central-Docker-Lab-Guide-v1.0.pdf)
 
 The guide includes:
 
@@ -72,9 +72,9 @@ bc-docker-lab
 │       └── lab-overview.png
 │
 ├── scripts
-│   ├── CreateContainer.ps1
-│   ├── RemoveContainer.ps1
-│   └── UpdateContainer.ps1
+│   ├── 01_Preparación_consola_comandos.ps1
+│   ├── 02_Creación_del_contenedor.ps1
+│  
 │
 ├── vscode
 │   ├── launch.json
