@@ -45,8 +45,8 @@ The repository includes the PowerShell scripts used throughout the guide.
 
 | Script | Description |
 |---------|-------------|
-| 01-Prepare-PowerShell.ps1 | Prepares PowerShell by installing and configuring the required modules. |
-| 02-Create-Container.ps1 | Creates the Microsoft Dynamics 365 Business Central Docker container. |
+| [01-Prepare-PowerShell.ps1](scripts/01-Prepare-PowerShell.ps1) | Prepares PowerShell by installing and configuring the required modules. |
+| [02-Create-Container.ps1](scripts/02-Create-Container.ps1) | Creates the Microsoft Dynamics 365 Business Central Docker container. |
 
 ---
 
