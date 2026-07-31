@@ -25,7 +25,7 @@ The objective is simple:
 
 📄 **Business Central Docker Lab Guide**
 
-➡️ **docs/Business-Central-Docker-Lab.pdf**
+➡️ docs/Business-Central-Docker-Lab-Guide-v1.0.pdf
 
 The guide includes:
 
